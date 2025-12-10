@@ -58,4 +58,3 @@ while True:
     elif player_move == "s" and computer_move == "r":
         print("あなたの負け")
         loses += 1
-
