@@ -40,10 +40,10 @@ def melchior(agenda):
     else:   #casperとは逆
         if kekka <= 50:
             print("Melchior … 否決")
-            return 0
+            return 1
         else:
             print("Melchior … 可決")
-            return 1
+            return 0
 
 #プログラムここから
 gidai=input("議題はなんですか >>")
