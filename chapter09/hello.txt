@@ -1,0 +1,3 @@
+Hello, world. (from text file)
+How are you ?
+O.K. Have a nice day !
